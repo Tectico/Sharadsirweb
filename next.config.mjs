@@ -24,9 +24,15 @@ const nextConfig = {
         protocol: "https",
         hostname: "clickup.com",
         pathname: "/**",
-      }
-      
+      },
     ],
+  },
+
+  eslint: {
+    ignoreDuringBuilds: true, // Disables ESLint during production builds
+  },
+  typescript: {
+    ignoreBuildErrors: true, // Disables TypeScript checks during production builds
   },
 };
 

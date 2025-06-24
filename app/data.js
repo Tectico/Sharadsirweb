@@ -48,11 +48,13 @@ import Tectic from "../public/images/TecticonismStudio.jpg";
 export const accordionData = [
   {
     title: "What is Lynk247",
-    description: "Lynk247 is an all-in-one employee tracking and productivity management platform designed to streamline team performance. Beyond just monitoring, it offers robust features like project and task management, custom break settings, auto-filled timesheets, and insightful analytics—all in a simple, user-friendly dashboard",
+    description:
+      "Lynk247 is an all-in-one employee tracking and productivity management platform designed to streamline team performance. Beyond just monitoring, it offers robust features like project and task management, custom break settings, auto-filled timesheets, and insightful analytics—all in a simple, user-friendly dashboard",
   },
   {
     title: "How is Lynk247 different from other employee tracking tools",
-    description: "Unlike traditional tracking systems, Lynk247 uses a unique in-house algorithm that evaluates actual work output rather than just screen activity. With more features at a lower cost, a highly intuitive interface, and round-the-clock 24/7 customer support, Lynk247 delivers exceptional value",
+    description:
+      "Unlike traditional tracking systems, Lynk247 uses a unique in-house algorithm that evaluates actual work output rather than just screen activity. With more features at a lower cost, a highly intuitive interface, and round-the-clock 24/7 customer support, Lynk247 delivers exceptional value",
   },
   {
     title: "How long does it take to set up Lynk247",
@@ -61,49 +63,54 @@ export const accordionData = [
   },
   {
     title: "How does Lynk247 improve team productivity",
-    description: "Lynk247 offers powerful analytics and activity insights that help you identify productivity bottlenecks and optimize workflows. Real-time feedback and data-driven decision-making lead to improved performance and smarter time management across your team",
+    description:
+      "Lynk247 offers powerful analytics and activity insights that help you identify productivity bottlenecks and optimize workflows. Real-time feedback and data-driven decision-making lead to improved performance and smarter time management across your team",
   },
   {
     title: "Can Lynk247 support custom feature requests",
-    description: "Yes! Our development team welcomes user feedback and is happy to build custom features tailored to your business needs. We’re constantly evolving based on user suggestions",
+    description:
+      "Yes! Our development team welcomes user feedback and is happy to build custom features tailored to your business needs. We’re constantly evolving based on user suggestions",
   },
   {
     title: "Is there a free trial for Lynk247",
-    description: "Absolutely. Lynk247 offers a 15-day free trial on all premium plans. We also have a Free Forever plan with limited features—perfect for small teams or freelancers looking to get started",
+    description:
+      "Absolutely. Lynk247 offers a 15-day free trial on all premium plans. We also have a Free Forever plan with limited features—perfect for small teams or freelancers looking to get started",
   },
   {
     title: "What kind of support does Lynk247 provide after purchase",
-    description: "We take customer service seriously. Lynk247 provides 24/7 support via live chat, email, and phone. Whether it’s a technical issue or a quick question, our support team is always ready to help",
+    description:
+      "We take customer service seriously. Lynk247 provides 24/7 support via live chat, email, and phone. Whether it’s a technical issue or a quick question, our support team is always ready to help",
   },
   {
     title: "Does Lynk247 work for remote and hybrid teams?",
-    description: "Yes, Lynk247 is ideal for remote, hybrid, and in-office teams. Its cloud-based infrastructure ensures smooth tracking and collaboration, no matter where your employees are located",
+    description:
+      "Yes, Lynk247 is ideal for remote, hybrid, and in-office teams. Its cloud-based infrastructure ensures smooth tracking and collaboration, no matter where your employees are located",
   },
   {
     title: "Is employee data secure with Lynk247",
-    description: "Absolutely. Lynk247 uses enterprise-grade encryption and strict access controls to ensure your team’s data is safe and secure. We are GDPR-compliant and prioritize user privacy",
+    description:
+      "Absolutely. Lynk247 uses enterprise-grade encryption and strict access controls to ensure your team’s data is safe and secure. We are GDPR-compliant and prioritize user privacy",
   },
   {
     title: "Can I integrate Lynk247 with other tools",
-    description: "Yes! Lynk247 offers integration with popular project management tools, calendars, and CRMs—helping you streamline your workflow without switching between platforms",
+    description:
+      "Yes! Lynk247 offers integration with popular project management tools, calendars, and CRMs—helping you streamline your workflow without switching between platforms",
   },
 ];
 
 // data of home image
 export const HomeImagedata = [
- //"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  //"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 
   //"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 
-   "/images/homePageImages/HPSS7.png",
+  "/images/homePageImages/HPSS7.png",
 
-   "/images/homePageImages/HPSS6.png",
+  "/images/homePageImages/HPSS6.png",
 
-   "/images/homePageImages/HPSS5.png",
+  "/images/homePageImages/HPSS5.png",
 
   "/images/homePageImages/HPSS4a1.png",
-
-  
 ];
 
 //  data of company scroller
@@ -200,7 +207,8 @@ export const dataArray = [
             linKpath: "time-line",
             heading: "Timeline View of Task Completion",
             desc: "Stay on top of task deadlines and progress with a timeline visualization",
-            image: "https://cdn.dribbble.com/userupload/34202866/file/original-301b06d003791cc26de1e9b52f1332a0.jpg?resize=1200x900&vertical=center",
+            image:
+              "https://cdn.dribbble.com/userupload/34202866/file/original-301b06d003791cc26de1e9b52f1332a0.jpg?resize=1200x900&vertical=center",
           },
           // {
           //   title: "Calender",
@@ -371,7 +379,6 @@ export const dataArray = [
           //   image:
           //     "https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?...",
           // },
-        
         ],
       },
       // {
@@ -451,8 +458,8 @@ export const dataArray = [
         linKpath: "attendence-management",
         image:
           //"https://cdn.dribbble.com/userupload/16814448/file/original-060f8fe1874d47b247c73cd4af6657ba.png?resize=1200x900&vertical=center",
-        "/images/functionalitiesImages/AttendanceImages/SSAttD3.png",
-        
+          "/images/functionalitiesImages/AttendanceImages/SSAttD3.png",
+
         desc: "Our smart attendance system makes tracking effortless—no spreadsheets or guesswork. With real-time logging and detailed reports, you get full visibility of your team’s attendance anytime, anywhere. Perfect for remote, in-office, or hybrid teams, it adapts to your workflow for accurate data and easy compliance.",
         icon: "",
         data: [
@@ -467,9 +474,9 @@ export const dataArray = [
             ],
 
             image:
-             // "https://cdn.dribbble.com/userupload/17467126/file/original-b427ff3edb5617d3921e11b82dddb14e.png?resize=1200x900&vertical=center",
+              // "https://cdn.dribbble.com/userupload/17467126/file/original-b427ff3edb5617d3921e11b82dddb14e.png?resize=1200x900&vertical=center",
               "/images/functionalitiesImages/AttendanceImages/SSAttD4.png",
-            },
+          },
 
           {
             id: 2,
@@ -483,8 +490,7 @@ export const dataArray = [
               "TVisual Graphs & Detailed Tables — Dive into organized data that’s easy to understand.",
             ],
 
-            image:
-             "/images/functionalitiesImages/AttendanceImages/SSAttD5.png",
+            image: "/images/functionalitiesImages/AttendanceImages/SSAttD5.png",
             //"https://cdn.dribbble.com/userupload/17467126/file/original-b427ff3edb5617d3921e11b82dddb14e.png?resize=1200x900&vertical=center",
           },
 
@@ -496,7 +502,7 @@ export const dataArray = [
               "Keep track of exactly when people punch in and out.",
               "Check in real time if someone is actively working, taking a break, or away from their desk.",
               "Understand how your team spends their day—from actual work time and active hours to idle moments and breaks.",
-              "Get all this info in one simple, easy-to-use place, so managing attendance has never been easier.", 
+              "Get all this info in one simple, easy-to-use place, so managing attendance has never been easier.",
             ],
 
             image:
@@ -921,7 +927,8 @@ export const dataArray = [
         data: [
           {
             id: 1,
-            title: "Track Projects from Start to Finish with Complete Visibility",
+            title:
+              "Track Projects from Start to Finish with Complete Visibility",
             points: [
               "A clear, all-in-one dashboard to view all active projects in real time — perfect for staying on top of what’s currently in progress",
               "A dedicated dashboard for closed and completed projects, making it easy to review past work and track performance",
@@ -937,21 +944,39 @@ export const dataArray = [
             title: "Smart, Simple Task Management for Faster Project Delivery",
             points: [
               <div>
-          <strong>Plan and track tasks easily with our intuitive Kanban board</strong>
-          <div>    -Create, manage, and visualize task progress in a way that’s  clear and simple for your entire team</div>
-         </div>,
-         <div>
-          <strong>Quickly create tasks with built-in file upload</strong>
-          <div>    -Add tasks in seconds and attach important files to keep everything organized and in one place</div>
-         </div>,
-         <div>
-          <strong>Launch new sprints effortlessly</strong>
-          <div>    -Create and manage sprints with just a few clicks—no complexity, just smooth planning</div>
-         </div>,
-         <div>
-          <strong>View and export task data instantly</strong>
-          <div>    -See all project-related tasks in a clean table view, and download their status with a single click</div>
-         </div>,
+                <strong>
+                  Plan and track tasks easily with our intuitive Kanban board
+                </strong>
+                <div>
+                  {" "}
+                  -Create, manage, and visualize task progress in a way that’s
+                  clear and simple for your entire team
+                </div>
+              </div>,
+              <div>
+                <strong>Quickly create tasks with built-in file upload</strong>
+                <div>
+                  {" "}
+                  -Add tasks in seconds and attach important files to keep
+                  everything organized and in one place
+                </div>
+              </div>,
+              <div>
+                <strong>Launch new sprints effortlessly</strong>
+                <div>
+                  {" "}
+                  -Create and manage sprints with just a few clicks—no
+                  complexity, just smooth planning
+                </div>
+              </div>,
+              <div>
+                <strong>View and export task data instantly</strong>
+                <div>
+                  {" "}
+                  -See all project-related tasks in a clean table view, and
+                  download their status with a single click
+                </div>
+              </div>,
             ],
 
             image:
@@ -963,21 +988,44 @@ export const dataArray = [
             title: "Track Every Detail, From Time Spent to Team Activity",
             points: [
               <div>
-          <strong>Track estimated, consumed, and overrun hours with ease</strong>
-          <div>    -Get a deeper understanding of your project’s performance by analyzing time spent on every task</div>
-         </div>,
-         <div>
-          <strong>Keep everything in one place with comments, attachments, and activity logs</strong>
-          <div>    -Collaborate better with task-specific discussions, file sharing, and a full history of user actions</div>
-         </div>,
-         <div>
-          <strong>Monitor progress on subtasks, not just the big picture</strong>
-          <div>    -Lynk247 have a unique feature that lets you track the activity and status of each subtask for better control</div>
-         </div>,
-         <div>
-          <strong>Stay informed with real-time task alerts</strong>
-          <div>    -Get instant notifications based on user activity so nothing slips through the cracks</div>
-         </div>,
+                <strong>
+                  Track estimated, consumed, and overrun hours with ease
+                </strong>
+                <div>
+                  {" "}
+                  -Get a deeper understanding of your project’s performance by
+                  analyzing time spent on every task
+                </div>
+              </div>,
+              <div>
+                <strong>
+                  Keep everything in one place with comments, attachments, and
+                  activity logs
+                </strong>
+                <div>
+                  {" "}
+                  -Collaborate better with task-specific discussions, file
+                  sharing, and a full history of user actions
+                </div>
+              </div>,
+              <div>
+                <strong>
+                  Monitor progress on subtasks, not just the big picture
+                </strong>
+                <div>
+                  {" "}
+                  -Lynk247 have a unique feature that lets you track the
+                  activity and status of each subtask for better control
+                </div>
+              </div>,
+              <div>
+                <strong>Stay informed with real-time task alerts</strong>
+                <div>
+                  {" "}
+                  -Get instant notifications based on user activity so nothing
+                  slips through the cracks
+                </div>
+              </div>,
             ],
 
             image:
@@ -999,17 +1047,35 @@ export const dataArray = [
             title: "Effortless Time Tracking for a More Efficient Team",
             points: [
               <div>
-          <strong>Say goodbye to outdated manual timesheets and inaccurate hour entries</strong>
-          <div>    -Make time tracking effortless and error-free with automation that actually works</div>
-         </div>,
-         <div>
-          <strong>Focus only on real work and actual team output</strong>
-          <div>    -With auto-filled timesheets, you track what matters — time spent on tasks and team productivity</div>
-         </div>,
-         <div>
-          <strong>Boost your organization’s productivity with accurate data insights</strong>
-          <div>    -Make smarter decisions with reliable time data that drives efficiency and growth</div>
-         </div>,
+                <strong>
+                  Say goodbye to outdated manual timesheets and inaccurate hour
+                  entries
+                </strong>
+                <div>
+                  {" "}
+                  -Make time tracking effortless and error-free with automation
+                  that actually works
+                </div>
+              </div>,
+              <div>
+                <strong>Focus only on real work and actual team output</strong>
+                <div>
+                  {" "}
+                  -With auto-filled timesheets, you track what matters — time
+                  spent on tasks and team productivity
+                </div>
+              </div>,
+              <div>
+                <strong>
+                  Boost your organization’s productivity with accurate data
+                  insights
+                </strong>
+                <div>
+                  {" "}
+                  -Make smarter decisions with reliable time data that drives
+                  efficiency and growth
+                </div>
+              </div>,
             ],
 
             image:
@@ -1021,17 +1087,30 @@ export const dataArray = [
             title: "Dedicated Dashboards for Seamless Timesheet Management",
             points: [
               <div>
-          <strong>Personalized timesheet dashboard for users</strong>
-          <div>    -Easily view and manage your own timesheets in one simple, dedicated space</div>
-         </div>,
-         <div>
-          <strong>Comprehensive admin dashboard</strong>
-          <div>    -Admins can effortlessly monitor and review timesheets for every team member across the organization</div>
-         </div>,
-         <div>
-          <strong>Manager’s dashboard with approval controls</strong>
-          <div>    -Managers get clear visibility to verify, approve, or reject timesheets — complete with alerts to stay on top of submissions</div>
-         </div>,
+                <strong>Personalized timesheet dashboard for users</strong>
+                <div>
+                  {" "}
+                  -Easily view and manage your own timesheets in one simple,
+                  dedicated space
+                </div>
+              </div>,
+              <div>
+                <strong>Comprehensive admin dashboard</strong>
+                <div>
+                  {" "}
+                  -Admins can effortlessly monitor and review timesheets for
+                  every team member across the organization
+                </div>
+              </div>,
+              <div>
+                <strong>Manager’s dashboard with approval controls</strong>
+                <div>
+                  {" "}
+                  -Managers get clear visibility to verify, approve, or reject
+                  timesheets — complete with alerts to stay on top of
+                  submissions
+                </div>
+              </div>,
             ],
 
             image:
@@ -1271,17 +1350,30 @@ export const dataArray = [
             title: "Smart Data Insights",
             points: [
               <div>
-          <strong>Make Smarter Decisions, Faster</strong>
-          <div>    -Lynk247 helps to get real-time insights that help your team respond quickly to trends, performance shifts, and customer behavior</div>
-         </div>,
-         <div>
-          <strong>Save Time with Ready-to-Use Data</strong>
-          <div>    -No more digging through spreadsheets—automated reports give you clear, Lynk247 gives you visual data when you need it most</div>
-         </div>,
-         <div>
-          <strong>Track Progress and Prove ROI</strong>
-          <div>    -Easily monitor key metrics, track goals, and show stakeholders exactly how your efforts are driving results.</div>
-         </div>,
+                <strong>Make Smarter Decisions, Faster</strong>
+                <div>
+                  {" "}
+                  -Lynk247 helps to get real-time insights that help your team
+                  respond quickly to trends, performance shifts, and customer
+                  behavior
+                </div>
+              </div>,
+              <div>
+                <strong>Save Time with Ready-to-Use Data</strong>
+                <div>
+                  {" "}
+                  -No more digging through spreadsheets—automated reports give
+                  you clear, Lynk247 gives you visual data when you need it most
+                </div>
+              </div>,
+              <div>
+                <strong>Track Progress and Prove ROI</strong>
+                <div>
+                  {" "}
+                  -Easily monitor key metrics, track goals, and show
+                  stakeholders exactly how your efforts are driving results.
+                </div>
+              </div>,
             ],
 
             image:
@@ -1293,17 +1385,31 @@ export const dataArray = [
             title: "Effortless Reporting Made Simple",
             points: [
               <div>
-          <strong>One-Click Report Downloads</strong>
-          <div>    -Quickly access the data you need with smart filters and download reports in Excel or CSV format—no extra steps, just one click</div>
-         </div>,
-         <div>
-          <strong>All-in-One Report Access</strong>
-          <div>    -Easily generate detailed Attendance, Timesheet, Project, and Productivity reports using our intuitive and user-friendly interface</div>
-         </div>,
-         <div>
-          <strong>Custom Reports, Your Way</strong>
-          <div>    -Lynk247 makes it easy to create fully customized reports tailored to your business needs—no technical skills required</div>
-         </div>,
+                <strong>One-Click Report Downloads</strong>
+                <div>
+                  {" "}
+                  -Quickly access the data you need with smart filters and
+                  download reports in Excel or CSV format—no extra steps, just
+                  one click
+                </div>
+              </div>,
+              <div>
+                <strong>All-in-One Report Access</strong>
+                <div>
+                  {" "}
+                  -Easily generate detailed Attendance, Timesheet, Project, and
+                  Productivity reports using our intuitive and user-friendly
+                  interface
+                </div>
+              </div>,
+              <div>
+                <strong>Custom Reports, Your Way</strong>
+                <div>
+                  {" "}
+                  -Lynk247 makes it easy to create fully customized reports
+                  tailored to your business needs—no technical skills required
+                </div>
+              </div>,
             ],
 
             image:
@@ -1315,21 +1421,40 @@ export const dataArray = [
             title: "Automated Reports That Work for You",
             points: [
               <div>
-          <strong>Smart Report Scheduling</strong>
-          <div>    -Lynk247 lets you automate report generation with flexible settings—choose what to generate, when to generate it, and who should receive it</div>
-         </div>,
-         <div>
-          <strong>Custom Delivery to Teams</strong>
-          <div>    -Easily set up email delivery for specific reports to individual users or entire teams, keeping everyone in the loop without manual effort</div>
-         </div>,
-         <div>
-          <strong>Flexible Frequency Options</strong>
-          <div>    -Configure reports to run daily, weekly, or monthly based on your workflow and reporting needs</div>
-         </div>,
-         <div>
-          <strong>Stay Informed, Effortlessly</strong>
-          <div>    -With Lynk247’s automated reporting, you’ll never miss an update—get the insights you need delivered straight to your inbox.</div>
-         </div>,
+                <strong>Smart Report Scheduling</strong>
+                <div>
+                  {" "}
+                  -Lynk247 lets you automate report generation with flexible
+                  settings—choose what to generate, when to generate it, and who
+                  should receive it
+                </div>
+              </div>,
+              <div>
+                <strong>Custom Delivery to Teams</strong>
+                <div>
+                  {" "}
+                  -Easily set up email delivery for specific reports to
+                  individual users or entire teams, keeping everyone in the loop
+                  without manual effort
+                </div>
+              </div>,
+              <div>
+                <strong>Flexible Frequency Options</strong>
+                <div>
+                  {" "}
+                  -Configure reports to run daily, weekly, or monthly based on
+                  your workflow and reporting needs
+                </div>
+              </div>,
+              <div>
+                <strong>Stay Informed, Effortlessly</strong>
+                <div>
+                  {" "}
+                  -With Lynk247’s automated reporting, you’ll never miss an
+                  update—get the insights you need delivered straight to your
+                  inbox.
+                </div>
+              </div>,
             ],
 
             image:
